@@ -1,4 +1,5 @@
-# 不知为何无法在搜索框中自动输入并搜索
+# 不知为何无法在搜索框中自动输入并搜索 2018.4.17
+# 今天打开项目不知为何上述问题解决了？？？ 2018.4.18
 from selenium import webdriver  # 导入Selenium的webdriver
 from selenium.webdriver.common.keys import Keys  # 导入Keys
 
@@ -10,7 +11,7 @@ elem.clear()  # 清空搜索框中的内容
 elem.send_keys("pycon")  # 在搜索框中输入pycon
 elem.send_keys(Keys.RETURN)  # 相当于回车键，提交
 assert "No results found." not in driver.page_source  # 如果当前页面文本中有“No results found.”则程序跳出
-driver.close()  # 关闭webdriver
+# driver.close()  # 关闭webdriver
 
 # ChromeDriver启动Chrome浏览器后，地址栏只显示data;，说明chromeDriver版本不对，
 # 需要下载对应版本的 webdriver，网址为：https://sites.google.com/a/chromium.org/chromedriver/downloads
