@@ -1,3 +1,5 @@
+// PhantomJS保存网页页面截图
+
 var page = require('webpage').create();
 page.open('http://music.163.com/', function(status)
 {

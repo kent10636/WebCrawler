@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="47a69a5a-1305-4af5-9220-d0289e0296ac" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeteaseMusic/NeteaseMusic.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeteaseMusic/NeteaseMusic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhantomJS/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/PhantomJS/hello.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhantomJS/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/PhantomJS/music.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Selenium/Selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unsplash/BeautifulSoupLearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unsplash/BeautifulSoupLearn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unsplash/PicturesURLextraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unsplash/PicturesURLextraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unsplash/Requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unsplash/Requests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unsplash/Unsplash.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unsplash/Unsplash.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,24 +19,10 @@
       <file leaf-file-name="Selenium.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Selenium/Selenium.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="25">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="music.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PhantomJS/music.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PhantomJS/hello.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -72,6 +55,8 @@
         <option value="$PROJECT_DIR$/Unsplash/Requests.py" />
         <option value="$PROJECT_DIR$/Unsplash/PicturesURLextraction.py" />
         <option value="$PROJECT_DIR$/Unsplash/BeautifulSoupLearn.py" />
+        <option value="$PROJECT_DIR$/PhantomJS/music.js" />
+        <option value="$PROJECT_DIR$/PhantomJS/hello.js" />
         <option value="$PROJECT_DIR$/Selenium/Selenium.py" />
       </list>
     </option>
@@ -262,12 +247,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12447917" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12447917" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32446808" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32446808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -362,29 +347,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NeteaseMusic/NeteaseMusic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unsplash/Requests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PhantomJS/music.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PhantomJS/hello.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Unsplash/PicturesURLextraction.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -400,10 +368,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NeteaseMusic/NeteaseMusic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PhantomJS/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PhantomJS/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/Selenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="25">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
