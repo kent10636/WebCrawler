@@ -1,3 +1,5 @@
+# 用于爬取网易云音乐某位歌手专辑页的所有专辑封面
+
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import requests

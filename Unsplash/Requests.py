@@ -1,3 +1,5 @@
+# 测试获取网页的HTML页面
+
 import requests  # 导入requests库
 
 r = requests.get('https://unsplash.com')  # 向目标url地址发送get请求，返回一个response对象

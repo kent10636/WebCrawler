@@ -1,3 +1,5 @@
+# 测试Selenium模拟Chrome浏览器在网页上的浏览、输入、查询操作
+
 # 不知为何无法在搜索框中自动输入并搜索 2018.4.17
 # 今天打开项目不知为何上述问题解决了？？？ 2018.4.18
 from selenium import webdriver  # 导入Selenium的webdriver

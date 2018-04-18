@@ -1,3 +1,5 @@
+# 学习BeautifulSoup对HTML标签操作的常用函数
+
 from bs4 import BeautifulSoup
 
 html_doc = """

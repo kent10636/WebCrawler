@@ -1,3 +1,5 @@
+# 用于爬取Unsplash图片网站的图片，包含模拟网页下拉功能
+
 from selenium import webdriver  # 导入Selenium
 import requests
 from bs4 import BeautifulSoup  # 导入BeautifulSoup 模块
@@ -20,8 +22,7 @@ class Unsplash():
         self.scroll_down(driver=driver, times=3)  # 执行网页下拉到底部操作，执行3次
 
         print('开始获取所有img标签')
-        all_img = BeautifulSoup(driver.page_source, 'lxml').find_all('img',
-                                                                     class_='_2zEKz')  # 获取网页中的class为_2zEKz的所有img标签
+        all_img = BeautifulSoup(driver.page_source, 'lxml').find_all('img', class_='_2zEKz')  # 获取网页中的class为_2zEKz的所有img标签
 
         print('开始创建文件夹')
         is_new_folder = self.mkdir(self.folder_path)  # 创建文件夹，并判断是否是新创建
