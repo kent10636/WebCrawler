@@ -3,6 +3,8 @@
 
 # 不知为何无法在搜索框中自动输入并搜索 2018.4.17
 # 今天打开项目不知为何上述问题解决了？？？ 2018.4.18
+# 输入框中输入的自动操作响应地很慢，猜测这是之前无法输入的原因 2018.4.18
+
 from selenium import webdriver  # 导入Selenium的webdriver
 from selenium.webdriver.common.keys import Keys  # 导入Keys
 
